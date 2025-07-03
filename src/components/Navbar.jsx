@@ -34,7 +34,7 @@ const Navbar = () => {
             </div>
             <div id="navlist">
                 <ul>
-                    <li>falcon 900</li>
+                    <li>falcon 9</li>
                     <li>falcon heavy</li>
                     <li>dragon</li>
                     <li>starship</li>
